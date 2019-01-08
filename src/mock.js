@@ -25,7 +25,7 @@ const articleData = () => {
   let articles = []
   for (let i = 0; i < 20; i++) {
     let article = {
-      'id|+1': 1,
+      'id': i + 1,
       'date': Random.date('yyyy-MM-dd'),
       'title': Random.csentence(),
       'author': Random.cname(),
