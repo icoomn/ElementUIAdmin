@@ -1,10 +1,11 @@
 # ElementUIAdmin
 
+<br/><br/><br/>
 
 ## Demo Preview
-[https://imxiaoer.github.io/ElementUIAdmin/dist/index](https://imxiaoer.github.io/ElementUIAdmin/dist/index)
+<a href="https://imxiaoer.github.io/ElementUIAdmin/dist/index" target="_blank">https://imxiaoer.github.io/ElementUIAdmin/dist/index</a>
 
-
+<br/><br/><br/>
 
 ## Project setup
 ```
@@ -34,7 +35,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
+<br/><br/><br/>
 
 ## Project Screenshots
 
@@ -42,4 +43,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ![screenshot-articles](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-articles.png)
 
-![screenshot-echarts](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-echarts.png)
+![screenshot-echarts](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-charts.png)
