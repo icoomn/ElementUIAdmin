@@ -1,7 +1,9 @@
 # ElementUIAdmin
 
-## 项目演示地址（Preview）
+
+## Demo Preview
 [https://imxiaoer.github.io/ElementUIAdmin/dist/index](https://imxiaoer.github.io/ElementUIAdmin/dist/index)
+
 
 
 ## Project setup
@@ -33,10 +35,11 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-## 项目截图（Screenshot）
 
-![screenshot-users]()
+## Project Screenshots
 
-![screenshot-articles]()
+![screenshot-users](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-users.png)
 
-![screenshot-echarts]()
+![screenshot-articles](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-articles.png)
+
+![screenshot-echarts](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-echarts.png)
