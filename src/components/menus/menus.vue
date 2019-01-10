@@ -7,7 +7,7 @@
     text-color="rgba(255,255,255,.8)"
     active-text-color="#ffd04b"
     :collapse="isCollapse">
-    <el-menu-item index="/index">
+    <el-menu-item index="/console">
       <i class="el-icon-location"></i>
       <span slot="title">主页</span>
     </el-menu-item>
