@@ -39,6 +39,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Project Screenshots
 
+![screenshot-login](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-login.png)
+
 ![screenshot-users](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-users.png)
 
 ![screenshot-articles](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-articles.png)
