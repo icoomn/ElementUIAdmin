@@ -24,8 +24,8 @@
         <i class="el-icon-setting"></i>
         <span>设置</span>
       </template>
-      <el-menu-item index="4-1">基本资料 (空)</el-menu-item>
-      <el-menu-item index="4-2">修改密码 (空)</el-menu-item>
+      <el-menu-item index="/profile">基本资料 (空)</el-menu-item>
+      <el-menu-item index="/password">修改密码 (空)</el-menu-item>
     </el-submenu>
     <el-menu-item index="/echarts">
       <i class="el-icon-share"></i>

@@ -19,10 +19,6 @@ const router = new Router({
       component: Login
     },
     {
-      path: '/404',
-      component: NotFound
-    },
-    {
       path: '/',
       component: Index,
       children: [
@@ -45,6 +41,10 @@ const router = new Router({
           path: '/echarts',
           name: 'echarts',
           component: Echarts
+        },
+        {
+          path: '/404',
+          component: NotFound
         }
       ]
     },
