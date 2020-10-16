@@ -1,43 +1,35 @@
 # ElementUIAdmin
 
+> 此项目是基于Element-UI开发的简易后台，主要用于框架学习与入门。VUE版本为 2.x, VUE-CLI版本为3.x
+
 <br/>
 
-## Demo Preview
+## 项目演示地址
 <a href="https://imxiaoer.github.io/ElementUIAdmin/dist/index" target="_blank">https://imxiaoer.github.io/ElementUIAdmin/dist/index</a>
 
 <br/><br/>
 
-## Project setup
+## 项目运行设置
+
+1. 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+2. 本地运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+3. 编译打包
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <br/><br/><br/>
 
-## Project Screenshots
+## 项目截图
 
 ![screenshot-login](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-login.png)
 
