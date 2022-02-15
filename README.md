@@ -37,3 +37,6 @@ npm run build
 ![screenshot-articles](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-articles.png)
 
 ![screenshot-echarts](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-charts.png)
+
+
+copy 1
