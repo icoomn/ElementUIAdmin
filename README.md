@@ -39,4 +39,4 @@ npm run build
 ![screenshot-echarts](https://github.com/imxiaoer/ElementUIAdmin/blob/master/screenshot/screenshot-charts.png)
 
 
-copy 1
+gyl comment
