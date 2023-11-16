@@ -1,11 +1,12 @@
 ## ElementUIAdmin
 
-基于Element-UI开发的简易后台，主要用于 Element-UI 框架的学习与入门。
+版本：Vue2
+基于 Element-UI 开发的简易后台，主要用于 Element-UI 框架的学习与入门。没有使用数据库，接口和数据都是通过 MockJs 模拟的。
 
 <br/>
 
 ## 项目演示地址
-<a href="https://imxiaoer.github.io/ElementUIAdmin/dist/index" target="_blank">https://imxiaoer.github.io/ElementUIAdmin/dist/index</a>
+<a href="https://icoomn.github.io/ElementUIAdmin/dist/index" target="_blank">https://icoomn.github.io/ElementUIAdmin/dist/index</a>
 
 <br/>
 
